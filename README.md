@@ -18,7 +18,7 @@ Welcome to HealthPulse, a revolutionary health monitoring system that combines F
 
 ## Getting Started 🚀
 
-1. **Clone the Repository:** `git clone https://github.com/enrituraj/HealthPulse.git`
+1. **Clone the Repository:** `git clone https://github.com/abhishek08arya/HealthPulse.git`
 2. **Move inside api:** `cd api`
 3. **Install Dependencies:** `pip install -r requirements.txt`
 4. **Make an .env file and put inside this:** 
@@ -37,16 +37,14 @@ HealthPulse welcomes contributions from developers, data scientists, and healthc
 This project is licensed under the [MIT License](LICENSE).
 
 ## Authors 👥
-![Rituraj](https://github.com/enrituraj.png?size=50)
+![Abhishek Kumar](https://github.com/abhishek08arya.png?size=50)
 
 If you have any questions, suggestions, or feedback, please feel free to reach out to us at:
 
-- Email: [rn26rituraj@gmail.com](mailto:rn26rituraj@gmail.com)
-- Website: [https://enrituraj.netlify.app/](https://enrituraj.netlify.app/)
+- Email: [abhishek08arya@gmail.com](mailto:abhishek08arya@gmail.com)
 
 You can also connect with us on social media:
 
-- Twitter: [@rn26rituraj](https://twitter.com/rn26rituraj)
-- LinkedIn: [enrituraj](https://www.linkedin.com/in/enrituraj/)
+- LinkedIn: [abhishek-kumar-66a61462](https://www.linkedin.com/in/abhishek-kumar-66a61462/)
 
 Embark on a transformative health journey with HealthPulse, where technology meets well-being. Together, let's revolutionize health monitoring and prediction for a healthier future! 💪🏽💚📈
