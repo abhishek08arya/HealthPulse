@@ -32,10 +32,6 @@ SECRET_KEY="your secret key"
 
 HealthPulse welcomes contributions from developers, data scientists, and healthcare enthusiasts. Whether you're skilled in Flask, machine learning, or frontend design, your expertise is valued. Fork the repository, make enhancements, and submit pull requests to contribute to the future of health monitoring.
 
-## License 📄
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Authors 👥
 ![Abhishek Kumar](https://github.com/abhishek08arya.png?size=50)
 
