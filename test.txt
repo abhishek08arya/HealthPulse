@@ -1,5 +1,4 @@
 File Structure : 
-
 HealthPulse:.
 |   .env
 |   .gitignore
