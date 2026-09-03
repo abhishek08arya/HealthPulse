@@ -63,7 +63,6 @@ def login_required(route_function):
             flash('You must be logged in to access this page.', 'error')
             return redirect(url_for('login'))
     return decorated_function
-
 def onlyAdmin(route_function):
     @wraps(route_function)
     def decorated_function(*args, **kwargs):
